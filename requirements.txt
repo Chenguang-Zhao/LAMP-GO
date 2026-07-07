@@ -1,0 +1,7 @@
+# LAMP-GO dependencies. Tested with Python 3.10 and CUDA 12.x.
+torch>=2.1
+esm>=3.1            # EvolutionaryScale ESM package, provides ESM-C 600M
+peft>=0.10         # LoRA adapters
+numpy
+scipy
+pandas

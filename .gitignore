@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+*_scores.npy
+*.tsv
+*.history.json
+!trained_lamp_go.pt
